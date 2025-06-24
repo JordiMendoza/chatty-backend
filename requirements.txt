@@ -1,6 +1,5 @@
 flask
 flask-cors
-chromadb
 sentence-transformers
 google-generativeai
 azure-storage-blob
